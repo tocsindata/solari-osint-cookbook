@@ -12,7 +12,6 @@
 │   │   ├── repository-guidance.md
 │   │   └── guides/             # Detailed implementation documents moved byte-for-byte from docs/
 │   ├── history/
-│   │   ├── examples/            # README compatibility mirrors for links in the preserved original README
 │   │   ├── history.md
 │   │   ├── local-todo-before-centralization.md
 │   │   ├── original-meta.md

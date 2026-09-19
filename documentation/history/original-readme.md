@@ -89,25 +89,25 @@ The original cookbook is a set of short, runnable examples for [Solari](https://
 
 | Example | Language | What it shows |
 | --- | --- | --- |
-| [browser-quickstart-ts](examples/browser-quickstart-ts) | TypeScript | Launch a browser, open a page, read it |
-| [browser-quickstart-py](examples/browser-quickstart-py) | Python | Launch a browser, open a page, read it |
-| [browser-stealth-proxy-ts](examples/browser-stealth-proxy-ts) | TypeScript | Stealth mode + residential proxy egress |
-| [browser-profiles-ts](examples/browser-profiles-ts) | TypeScript | Log in once, reuse the session forever |
-| [browser-session-recording-py](examples/browser-session-recording-py) | Python | Record a session, download the replay |
+| [browser-quickstart-ts](../../examples/browser-quickstart-ts) | TypeScript | Launch a browser, open a page, read it |
+| [browser-quickstart-py](../../examples/browser-quickstart-py) | Python | Launch a browser, open a page, read it |
+| [browser-stealth-proxy-ts](../../examples/browser-stealth-proxy-ts) | TypeScript | Stealth mode + residential proxy egress |
+| [browser-profiles-ts](../../examples/browser-profiles-ts) | TypeScript | Log in once, reuse the session forever |
+| [browser-session-recording-py](../../examples/browser-session-recording-py) | Python | Record a session, download the replay |
 
 ### Sandbox
 
 | Example | Language | What it shows |
 | --- | --- | --- |
-| [sandbox-quickstart-ts](examples/sandbox-quickstart-ts) | TypeScript | Run a command, write and read files |
-| [sandbox-code-interpreter-py](examples/sandbox-code-interpreter-py) | Python | Stateful Python kernel for agent loops |
-| [sandbox-port-preview-ts](examples/sandbox-port-preview-ts) | TypeScript | Expose a server in the VM on a public URL |
+| [sandbox-quickstart-ts](../../examples/sandbox-quickstart-ts) | TypeScript | Run a command, write and read files |
+| [sandbox-code-interpreter-py](../../examples/sandbox-code-interpreter-py) | Python | Stateful Python kernel for agent loops |
+| [sandbox-port-preview-ts](../../examples/sandbox-port-preview-ts) | TypeScript | Expose a server in the VM on a public URL |
 
 ### Desktop
 
 | Example | Language | What it shows |
 | --- | --- | --- |
-| [desktop-computer-use-py](examples/desktop-computer-use-py) | Python | Screenshot, click, and type on a Linux GUI |
+| [desktop-computer-use-py](../../examples/desktop-computer-use-py) | Python | Screenshot, click, and type on a Linux GUI |
 
 ## Running an upstream example
 
