@@ -36,3 +36,5 @@ Open `/` for the analyst workspace or `/server-dashboard` for advanced server op
 Current project documentation is canonical under `documentation/`. The small `docs/README.md` compatibility pointer remains because the existing Dockerfile copies `docs/`; all prior `docs/` content was retained byte-for-byte under the canonical tree.
 
 MIT licensed.
+
+ACTIVE STAMP: 09-22-2026
